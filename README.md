@@ -1,10 +1,9 @@
 # A-recompiled-version-based-on-TrafficMonitor
-基于TrafficMonitor V1.84.1( https://github.com/zhongyang219/TrafficMonitor/releases/tag/V1.84.1 )进行二次编译的修改版，主要是更改了“网速简洁模式”逻辑，替换成“网速智能显示模式”，自动调整网速显示长度，完美解决网速长度溢出，或有时长度过短造成主窗口留白不美观问题
+这是基于TrafficMonitor( https://github.com/zhongyang219/TrafficMonitor/releases/ )的重构版，主要是更改了“网速简洁模式”逻辑，替换成“网速智能显示模式”，会更加智能调整网速显示长度，完美解决网速长度过长，或有闲时长度过短造成主窗口留白不美观问题
 
-原本目的是为了适配我制作的一款皮肤 （ https://github.com/1247343406/A-TrafficMonitor-s-modern-skin ）
+在这里推荐一款我为这个软件制作的一款皮肤 ：现代悬浮球（ https://github.com/1247343406/A-TrafficMonitor-s-modern-skin ）
 
 
+This is based on TrafficMonitor refactoring version (https://github.com/zhongyang219/TrafficMonitor/releases/), the main logic is changed "speed concise model", replace "network intelligent display mode", It will be more intelligent to adjust the length of the network speed display, perfectly solving the problem that the network speed is too long, or the leisure time is too short, causing the main window to be left unsightly
 
-Based on TrafficMonitor V1.84.1 (https://github.com/zhongyang219/TrafficMonitor/releases/tag/V1.84.1) for a second compilation of the modified version, Mainly changed the "network speed concise mode" logic, replaced by "network speed intelligent display mode", automatically adjusted the network speed display length, perfectly solve the problem of network speed length overflow, or sometimes too long and short caused by the main window blank is not beautiful
-
-Planned for adapt my skin( https://github.com/1247343406/A-TrafficMonitor-s-modern-skin )
+Here recommend one for me this software project of a skin: modern suspension ball (https://github.com/1247343406/A-TrafficMonitor-s-modern-skin)
