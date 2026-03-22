@@ -1,7 +1,7 @@
 # A-recompiled-version-based-on-TrafficMonitor
 这是基于TrafficMonitor( https://github.com/zhongyang219/TrafficMonitor/releases/ )的重构版，主要是更改了“网速简洁模式”逻辑，替换成“网速智能显示模式”，会更加智能调整网速显示长度，完美解决网速长度过长，或有闲时长度过短造成主窗口留白不美观问题
 
-##重要通知
+## 重要通知
 
 此仓库已归档并不再维护，相关源代码和文件已转到fork仓库进行维护：[点击前往](https://github.com/1247343406/TrafficMonitor-rebuild)
 
